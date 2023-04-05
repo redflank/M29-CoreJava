@@ -11,6 +11,7 @@ public class CharacterDemo {
 		char ch1 = 70;
 		System.out.println(ch1);
 		
+		//assigning to Unicode
 		char ch2 = '\u00A7';
 		System.out.println(ch2);
 		
