@@ -8,6 +8,7 @@ public class TernanryOperatorProgram {
 		/*
 		 *(condition)?"T":"F"; 
 		 */
+		@SuppressWarnings("unused")
 		String isEven = (6%2==0)?"Even":"Odd";
 		System.out.println(isEven);
 		

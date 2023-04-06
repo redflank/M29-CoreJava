@@ -17,7 +17,7 @@ public class IfElseProgram {
 			System.out.println("The donor is not Eligible");
 		}
 		
-		
+		sc.close();
 
 	}
 
