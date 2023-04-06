@@ -9,8 +9,8 @@ public class BitwiseOperatorProgram {
 		int result2 = 10|7;//Bitwise inclusive OR
 		int result3 = 10^7;//Bitwise exclusive OR
 		//Shift Operator
-		int result4 = 8>>2;
-		int result5 = 8<<1;
+		int result4 = 8>>2;//right shift
+		int result5 = 8<<1;//left shift
 		System.out.println(result1);//2
 		System.out.println(result2);//15
 		System.out.println(result3);//13
