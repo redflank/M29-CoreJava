@@ -17,6 +17,8 @@ public class ArithmeticOperatorprogram {
 		System.out.println("The multiplication of Two Numbers: "+(x*y));
 		System.out.println("The division of Two Numbers: "+(x/y));
 		System.out.println("The modulo of Two Numbers: "+(x%y));
+		s.close();
 	}
+	
 
 }
