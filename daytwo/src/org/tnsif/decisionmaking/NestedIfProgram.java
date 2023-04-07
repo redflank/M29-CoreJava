@@ -1,4 +1,4 @@
-//Program to demonstarte Nested If statement
+//Program to demonstrate Nested If statement
 
 package org.tnsif.decisionmaking;
 
